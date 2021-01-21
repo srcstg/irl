@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: dfd5a33cfbe76f04c8bf9c568ff3c2b8
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -3951679171293948881
+    second: Box001.009|Action.070_Cylinder018.003
+  - first:
+      74: 4490411271988541440
+    second: Box001.009|Action.070_Cylinder018.004
+  - first:
+      74: 8715687524908896963
+    second: Box001.009|Action.076_Box001.003
+  - first:
+      74: -8339015790163735613
+    second: Box001.009|Action.076_Box001.004
+  - first:
+      74: -562138453242683273
+    second: Box001.009|Action.081_Cylinder008.003
+  - first:
+      74: 3557326176632088814
+    second: Box001.009|Action.081_Cylinder008.004
+  - first:
+      74: 3013799938773909191
+    second: Box001.009|Action.087_Cylinder003.003
+  - first:
+      74: 5257475580260800051
+    second: Box001.009|Action.087_Cylinder003.004
+  - first:
+      74: -4638257552318285448
+    second: Box001.009|camera1|Take 001|BaseLayer
+  - first:
+      74: -6033772295155109125
+    second: Box001.009|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 374681026906399618
+    second: Box001.009|group1.001|Take 001|BaseLayer
+  - first:
+      74: 5414582451352711669
+    second: Box001.009|group1|Take 001|BaseLayer
+  - first:
+      74: 7580444619504515111
+    second: Box001.008|Action.070_Cylinder018.003
+  - first:
+      74: 4887532360285751644
+    second: Box001.008|Action.070_Cylinder018.004
+  - first:
+      74: 597848329460865645
+    second: Box001.008|Action.076_Box001.003
+  - first:
+      74: 4736395149541974246
+    second: Box001.008|Action.076_Box001.004
+  - first:
+      74: -7694652289345106007
+    second: Box001.008|Action.081_Cylinder008.003
+  - first:
+      74: -6757796856870997455
+    second: Box001.008|Action.081_Cylinder008.004
+  - first:
+      74: 3007604255665946019
+    second: Box001.008|Action.087_Cylinder003.003
+  - first:
+      74: 7611460166152714477
+    second: Box001.008|Action.087_Cylinder003.004
+  - first:
+      74: 3745150137698580057
+    second: Box001.008|camera1|Take 001|BaseLayer
+  - first:
+      74: 2352622525143493866
+    second: Box001.008|camera1|Take 001|BaseLayer.001
+  - first:
+      74: -4809360889280618681
+    second: Box001.008|group1.001|Take 001|BaseLayer
+  - first:
+      74: 3142800507538613331
+    second: Box001.008|group1|Take 001|BaseLayer
+  - first:
+      74: 4675334880876900119
+    second: Box001.007|Action.070_Cylinder018.003
+  - first:
+      74: 2644892695712404525
+    second: Box001.007|Action.070_Cylinder018.004
+  - first:
+      74: 1775525491177515200
+    second: Box001.007|Action.076_Box001.003
+  - first:
+      74: 3306319634707333466
+    second: Box001.007|Action.076_Box001.004
+  - first:
+      74: 6427921763079775222
+    second: Box001.007|Action.081_Cylinder008.003
+  - first:
+      74: 8677606392031302751
+    second: Box001.007|Action.081_Cylinder008.004
+  - first:
+      74: 1469019377576374257
+    second: Box001.007|Action.087_Cylinder003.003
+  - first:
+      74: 644402275871094656
+    second: Box001.007|Action.087_Cylinder003.004
+  - first:
+      74: 833439354738417776
+    second: Box001.007|camera1|Take 001|BaseLayer
+  - first:
+      74: -2702097045997337026
+    second: Box001.007|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 9135173308091127673
+    second: Box001.007|group1.001|Take 001|BaseLayer
+  - first:
+      74: 9129137147356123794
+    second: Box001.007|group1|Take 001|BaseLayer
+  - first:
+      74: -7242605550676802878
+    second: Cylinder003.002|Action.070_Cylinder018.003
+  - first:
+      74: 8410269108521773156
+    second: Cylinder003.002|Action.070_Cylinder018.004
+  - first:
+      74: 8118102038608379675
+    second: Cylinder003.002|Action.076_Box001.003
+  - first:
+      74: 4178604473654851410
+    second: Cylinder003.002|Action.076_Box001.004
+  - first:
+      74: -8095213458713331958
+    second: Cylinder003.002|Action.081_Cylinder008.003
+  - first:
+      74: -3896981794248914066
+    second: Cylinder003.002|Action.081_Cylinder008.004
+  - first:
+      74: 7158564068240352917
+    second: Cylinder003.002|Action.087_Cylinder003.003
+  - first:
+      74: -7107318036976028164
+    second: Cylinder003.002|Action.087_Cylinder003.004
+  - first:
+      74: 2569081506871521514
+    second: Cylinder003.002|camera1|Take 001|BaseLayer
+  - first:
+      74: 389915823368867844
+    second: Cylinder003.002|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 815184992460047523
+    second: Cylinder003.002|group1.001|Take 001|BaseLayer
+  - first:
+      74: -5072960049792630209
+    second: Cylinder003.002|group1|Take 001|BaseLayer
+  - first:
+      74: 5289964846345494758
+    second: Cylinder008.003|Action.070_Cylinder018.003
+  - first:
+      74: -827565087458536247
+    second: Cylinder008.003|Action.070_Cylinder018.004
+  - first:
+      74: -3816583877531725714
+    second: Cylinder008.003|Action.076_Box001.003
+  - first:
+      74: 2075882351132150568
+    second: Cylinder008.003|Action.076_Box001.004
+  - first:
+      74: 9185366161202638601
+    second: Cylinder008.003|Action.081_Cylinder008.003
+  - first:
+      74: 8891303849766410369
+    second: Cylinder008.003|Action.081_Cylinder008.004
+  - first:
+      74: -571496044180959210
+    second: Cylinder008.003|Action.087_Cylinder003.003
+  - first:
+      74: 49331656288061361
+    second: Cylinder008.003|Action.087_Cylinder003.004
+  - first:
+      74: 3848321626400572419
+    second: Cylinder008.003|camera1|Take 001|BaseLayer
+  - first:
+      74: 8580364640853447715
+    second: Cylinder008.003|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 1159169518979145244
+    second: Cylinder008.003|group1.001|Take 001|BaseLayer
+  - first:
+      74: 877064493748604
+    second: Cylinder008.003|group1|Take 001|BaseLayer
+  - first:
+      74: -8671372800921496590
+    second: Cylinder018.003|Action.070_Cylinder018.003
+  - first:
+      74: -7145979641534109634
+    second: Cylinder018.003|Action.070_Cylinder018.004
+  - first:
+      74: 3813395750807043265
+    second: Cylinder018.003|Action.076_Box001.003
+  - first:
+      74: -839667666643696861
+    second: Cylinder018.003|Action.076_Box001.004
+  - first:
+      74: -7807665833592742878
+    second: Cylinder018.003|Action.081_Cylinder008.003
+  - first:
+      74: 800279295348521754
+    second: Cylinder018.003|Action.081_Cylinder008.004
+  - first:
+      74: -1215236154819798330
+    second: Cylinder018.003|Action.087_Cylinder003.003
+  - first:
+      74: 1407636521407104576
+    second: Cylinder018.003|Action.087_Cylinder003.004
+  - first:
+      74: 9190021181174411034
+    second: Cylinder018.003|camera1|Take 001|BaseLayer
+  - first:
+      74: -5105072941946209674
+    second: Cylinder018.003|camera1|Take 001|BaseLayer.001
+  - first:
+      74: -9048149672125255899
+    second: Cylinder018.003|group1.001|Take 001|BaseLayer
+  - first:
+      74: -4916293426597852696
+    second: Cylinder018.003|group1|Take 001|BaseLayer
+  - first:
+      74: 8998772076512974551
+    second: Box001.003|Action.070_Cylinder018.003
+  - first:
+      74: 8886210486546424009
+    second: Box001.003|Action.070_Cylinder018.004
+  - first:
+      74: -955658793416084826
+    second: Box001.003|Action.076_Box001.003
+  - first:
+      74: 7487907389791806991
+    second: Box001.003|Action.076_Box001.004
+  - first:
+      74: -3602132972750993244
+    second: Box001.003|Action.081_Cylinder008.003
+  - first:
+      74: -6904198796427904773
+    second: Box001.003|Action.081_Cylinder008.004
+  - first:
+      74: -7052268549581745887
+    second: Box001.003|Action.087_Cylinder003.003
+  - first:
+      74: 3904819948811210269
+    second: Box001.003|Action.087_Cylinder003.004
+  - first:
+      74: -6163998563265178767
+    second: Box001.003|camera1|Take 001|BaseLayer
+  - first:
+      74: -7224088598951683080
+    second: Box001.003|camera1|Take 001|BaseLayer.001
+  - first:
+      74: -4777532076711435481
+    second: Box001.003|group1.001|Take 001|BaseLayer
+  - first:
+      74: -3945747291931750558
+    second: Box001.003|group1|Take 001|BaseLayer
+  - first:
+      74: 7862711516987876190
+    second: Box001.002|Action.070_Cylinder018.003
+  - first:
+      74: 6814083495616185579
+    second: Box001.002|Action.070_Cylinder018.004
+  - first:
+      74: 5206731180680570820
+    second: Box001.002|Action.076_Box001.003
+  - first:
+      74: 5139925580635427840
+    second: Box001.002|Action.076_Box001.004
+  - first:
+      74: 3398831957454525445
+    second: Box001.002|Action.081_Cylinder008.003
+  - first:
+      74: 565271690350119823
+    second: Box001.002|Action.081_Cylinder008.004
+  - first:
+      74: 7492172098928104836
+    second: Box001.002|Action.087_Cylinder003.003
+  - first:
+      74: -4462445018334486521
+    second: Box001.002|Action.087_Cylinder003.004
+  - first:
+      74: -8867877167391616154
+    second: Box001.002|camera1|Take 001|BaseLayer
+  - first:
+      74: 4163793322163447447
+    second: Box001.002|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 1645410189166773060
+    second: Box001.002|group1.001|Take 001|BaseLayer
+  - first:
+      74: 3067849472587747173
+    second: Box001.002|group1|Take 001|BaseLayer
+  - first:
+      74: 2326434353946775586
+    second: Box001.001|Action.070_Cylinder018.003
+  - first:
+      74: 2753233090506831922
+    second: Box001.001|Action.070_Cylinder018.004
+  - first:
+      74: -2749640065380884957
+    second: Box001.001|Action.076_Box001.003
+  - first:
+      74: -885840061746081556
+    second: Box001.001|Action.076_Box001.004
+  - first:
+      74: -8437907623845149313
+    second: Box001.001|Action.081_Cylinder008.003
+  - first:
+      74: -5964666656501089446
+    second: Box001.001|Action.081_Cylinder008.004
+  - first:
+      74: -1953490151245545458
+    second: Box001.001|Action.087_Cylinder003.003
+  - first:
+      74: 8521228971116175975
+    second: Box001.001|Action.087_Cylinder003.004
+  - first:
+      74: -1195462194451301415
+    second: Box001.001|camera1|Take 001|BaseLayer
+  - first:
+      74: -5391287258749106389
+    second: Box001.001|camera1|Take 001|BaseLayer.001
+  - first:
+      74: -7225245020683910595
+    second: Box001.001|group1.001|Take 001|BaseLayer
+  - first:
+      74: -3373736616484954914
+    second: Box001.001|group1|Take 001|BaseLayer
+  - first:
+      74: 7131782188237526410
+    second: Cylinder003.001|Action.070_Cylinder018.003
+  - first:
+      74: 7179687489577148422
+    second: Cylinder003.001|Action.070_Cylinder018.004
+  - first:
+      74: -6148991632653374433
+    second: Cylinder003.001|Action.076_Box001.003
+  - first:
+      74: -627920024140846910
+    second: Cylinder003.001|Action.076_Box001.004
+  - first:
+      74: -1507298907344097246
+    second: Cylinder003.001|Action.081_Cylinder008.003
+  - first:
+      74: -1930219963334303354
+    second: Cylinder003.001|Action.081_Cylinder008.004
+  - first:
+      74: 5199389823796978351
+    second: Cylinder003.001|Action.087_Cylinder003.003
+  - first:
+      74: -8071470162870201422
+    second: Cylinder003.001|Action.087_Cylinder003.004
+  - first:
+      74: -1439231288589707452
+    second: Cylinder003.001|camera1|Take 001|BaseLayer
+  - first:
+      74: 5800805211638098724
+    second: Cylinder003.001|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 4170182295716554637
+    second: Cylinder003.001|group1.001|Take 001|BaseLayer
+  - first:
+      74: -2364916057442707991
+    second: Cylinder003.001|group1|Take 001|BaseLayer
+  - first:
+      74: -6526716517301688322
+    second: Cylinder008.001|Action.070_Cylinder018.003
+  - first:
+      74: 2345466311446297883
+    second: Cylinder008.001|Action.070_Cylinder018.004
+  - first:
+      74: -7708415304024248082
+    second: Cylinder008.001|Action.076_Box001.003
+  - first:
+      74: 9195997778181532276
+    second: Cylinder008.001|Action.076_Box001.004
+  - first:
+      74: 97411626726680553
+    second: Cylinder008.001|Action.081_Cylinder008.003
+  - first:
+      74: 3609312063183252465
+    second: Cylinder008.001|Action.081_Cylinder008.004
+  - first:
+      74: 325959418934101402
+    second: Cylinder008.001|Action.087_Cylinder003.003
+  - first:
+      74: -3208973094880339958
+    second: Cylinder008.001|Action.087_Cylinder003.004
+  - first:
+      74: -2415529461037130308
+    second: Cylinder008.001|camera1|Take 001|BaseLayer
+  - first:
+      74: 4051576870409260930
+    second: Cylinder008.001|camera1|Take 001|BaseLayer.001
+  - first:
+      74: 5290223287258910500
+    second: Cylinder008.001|group1.001|Take 001|BaseLayer
+  - first:
+      74: -4929565573142781222
+    second: Cylinder008.001|group1|Take 001|BaseLayer
+  - first:
+      74: -2956100167208077666
+    second: Cylinder018.001|Action.070_Cylinder018.003
+  - first:
+      74: -216863263715756110
+    second: Cylinder018.001|Action.070_Cylinder018.004
+  - first:
+      74: 3546499260301528315
+    second: Cylinder018.001|Action.076_Box001.003
+  - first:
+      74: 3036632703452654065
+    second: Cylinder018.001|Action.076_Box001.004
+  - first:
+      74: 1053337932179270230
+    second: Cylinder018.001|Action.081_Cylinder008.003
+  - first:
+      74: -7811219108725692298
+    second: Cylinder018.001|Action.081_Cylinder008.004
+  - first:
+      74: 6294628542466356803
+    second: Cylinder018.001|Action.087_Cylinder003.003
+  - first:
+      74: 458811070958186221
+    second: Cylinder018.001|Action.087_Cylinder003.004
+  - first:
+      74: -4492150665351797725
+    second: Cylinder018.001|camera1|Take 001|BaseLayer
+  - first:
+      74: 4020049304169830845
+    second: Cylinder018.001|camera1|Take 001|BaseLayer.001
+  - first:
+      74: -4286954660603334006
+    second: Cylinder018.001|group1.001|Take 001|BaseLayer
+  - first:
+      74: 8632741114198381694
+    second: Cylinder018.001|group1|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 58a25d8c3efb2c548b4e5686653d1776, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: cbee988768584b540a31ccd3162f3a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 43791530fdf58b8419676084e11e7d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: 71b00774158d7f44fb1005cef77db792, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 253a3880e3f66894d93d8e93b48a6d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 779f4d93dc051fb4299eb2ab86a4e60b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 091800e8c2bbb0941a8f58c573739d14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 1d84173c70b3d9945ba41275d321f720, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: a43cbad17aa0360409199d0aaef1d474, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 6330dfe2040aec54d8fe18a66f8e113a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: b08c9cee561ddbe4998e24ac5ae91797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14.002
+    second: {fileID: 2100000, guid: f0330a984e5123447bd7d040b65ce289, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14.004
+    second: {fileID: 2100000, guid: 04aabc4340a54a5419db7adc5a0c5d2d, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
